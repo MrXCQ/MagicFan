@@ -1,0 +1,33 @@
+/* 
+  InfoPlist.strings
+  MagicFan
+
+  Created by zc on 2017/6/26.
+  Copyright © 2017年 IMpBear. All rights reserved.
+*/
+
+CFBundleDisplayName = "BLEFlashFontFan";
+"Cancel" = "Cancel";
+
+"Sure" = "Sure";
+
+"HelpTip" =  "Step 1: turn on your Bluetooth connection.\n\nThe second step: turn on Bluetooth fan APP software.\n\nThe third time: in the APP interface select fan Zcw-Led, click the connection successfully, wait for prompt Bluetooth fan connection success, if only prompted Bluetooth connection is successful, then click disconnect, repeat operation.\n\nFourth steps:The main interface displays the word effect, and you can browse different characters by clicking the arrow.\n\n Select the effect you want, and click the middle OK button\n\nContent display can be adjusted by [A-]/[A+] font size.\n\nClick on the lower right corner to change the display contents.\n\nThe input can be up to 4 lines, and will take turns when sent.\n\nCurrently supports 7 length Chinese English mixed hair, 10 length pure English.\n";
+
+"Help" = "Help";
+
+"Back" = "Back";
+
+"APPName" = "BLEFlashFontFan";
+"defaultTip" = "Nice Day";
+"defaultMagic" = "Default effects";
+
+"Effects" = "Effects" ;
+"Done" = "Done";
+"Refresh" = "Refresh";
+"Disconnected" = "Disconnect" ;
+"PleaseConnect" = "Please connect the fan first!" ;
+"OpenFan" = "Device open successfully, start scanning device!" ;
+"ReadyToConnect" = "Ready to connect devices." ;
+"ConnectSuccess" = "Connection success!";
+"ConnectFail" = "Connection failed!";
+"SendData" = "Sending data..." ;

@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  MagicFan
+
+  Created by zc on 2017/6/26.
+  Copyright © 2017年 IMpBear. All rights reserved.
+*/
+CFBundleDisplayName = "炫字蓝牙风扇";
+"Cancel" = "取消";
+"Sure" = "确定";
+"Help" =  "\n\n第一步：打开手机的蓝牙连接功能。\n\n第二步：打开 蓝牙风扇APP软件。\n\n第三次：在APP 界面选择风扇Zcw-Led ，点选连接成功, 等待提示蓝牙风扇连接成功,若只提示蓝牙连接成功则点击断开连接重复次操作。\n\n第四步：主界面显示显字效果，可以通过点击左右箭头，浏览不同显字方式。\n\n选择自己中意的效果,点击中间的OK按钮.\n\n内容显示可点[A-]/[A+]调节字体大小。\n\n更换显示内容可点击右下角的勾。\n\n输入时最多可以换行4次,发送后将轮流出现。目前支持7长度汉英混发,10长度纯英文。\n";

@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "默认特效"; ObjectID = "e0z-01-GHU"; */
+"e0z-01-GHU.text" = "默认特效";
+
+/* Class = "UITextView"; text = "今天天气真好"; ObjectID = "e8b-Ju-qHU"; */
+"e8b-Ju-qHU.text" = "今天天气真好";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jc5-YQ-fiI"; */
+"jc5-YQ-fiI.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rVA-VM-23q"; */
+"rVA-VM-23q.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "左右点击切换显示效果"; ObjectID = "sOL-Jy-5e7"; */
+"sOL-Jy-5e7.text" = "左右点击切换显示效果";
